@@ -1,0 +1,11 @@
+<html>
+    <body>
+        <ul>
+            {% for person in persons %}
+                <li>
+                    {{ person.first_name}} {{ person.last_name }}
+                </li>
+            {% endfor %}
+        </ul>
+    </body>
+</html>

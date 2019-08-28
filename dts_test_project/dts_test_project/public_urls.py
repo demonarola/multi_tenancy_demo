@@ -15,12 +15,7 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path
-# from myclientapp.views import PersonListView
-from myclientapp import views  
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    # path('', PersonListView.as_view(), name="person_list_view")
-    path('list/', views.index, name="index"),
-    path('', views.add_tenant, name="add_tenant")
 ]

@@ -1,0 +1,42 @@
+2019-08-27 17:28:32.821 IST [1715] LOG:  could not bind IPv4 address "127.0.0.1": Address already in use
+2019-08-27 17:28:32.821 IST [1715] HINT:  Is another postmaster already running on port 5432? If not, wait a few seconds and retry.
+2019-08-27 17:28:32.821 IST [1715] LOG:  could not bind IPv6 address "::1": Address already in use
+2019-08-27 17:28:32.821 IST [1715] HINT:  Is another postmaster already running on port 5432? If not, wait a few seconds and retry.
+2019-08-27 17:28:32.821 IST [1715] WARNING:  could not create listen socket for "localhost"
+2019-08-27 17:28:32.821 IST [1715] FATAL:  could not create any TCP/IP sockets
+2019-08-27 17:28:32.821 IST [1715] LOG:  database system is shut down
+2019-08-27 17:28:54.327 IST [1750] LOG:  could not bind IPv4 address "127.0.0.1": Address already in use
+2019-08-27 17:28:54.327 IST [1750] HINT:  Is another postmaster already running on port 5432? If not, wait a few seconds and retry.
+2019-08-27 17:28:54.327 IST [1750] LOG:  could not bind IPv6 address "::1": Address already in use
+2019-08-27 17:28:54.327 IST [1750] HINT:  Is another postmaster already running on port 5432? If not, wait a few seconds and retry.
+2019-08-27 17:28:54.327 IST [1750] WARNING:  could not create listen socket for "localhost"
+2019-08-27 17:28:54.327 IST [1750] FATAL:  could not create any TCP/IP sockets
+2019-08-27 17:28:54.327 IST [1750] LOG:  database system is shut down
+2019-08-27 17:30:47.445 IST [1790] LOG:  could not bind IPv4 address "127.0.0.1": Address already in use
+2019-08-27 17:30:47.445 IST [1790] HINT:  Is another postmaster already running on port 5432? If not, wait a few seconds and retry.
+2019-08-27 17:30:47.459 IST [1790] LOG:  could not bind IPv6 address "::1": Address already in use
+2019-08-27 17:30:47.459 IST [1790] HINT:  Is another postmaster already running on port 5432? If not, wait a few seconds and retry.
+2019-08-27 17:30:47.459 IST [1790] WARNING:  could not create listen socket for "localhost"
+2019-08-27 17:30:47.459 IST [1790] FATAL:  could not create any TCP/IP sockets
+2019-08-27 17:30:47.459 IST [1790] LOG:  database system is shut down
+2019-08-27 17:31:56.791 IST [1832] LOG:  could not bind IPv4 address "127.0.0.1": Address already in use
+2019-08-27 17:31:56.791 IST [1832] HINT:  Is another postmaster already running on port 5432? If not, wait a few seconds and retry.
+2019-08-27 17:31:56.799 IST [1832] LOG:  could not bind IPv6 address "::1": Address already in use
+2019-08-27 17:31:56.799 IST [1832] HINT:  Is another postmaster already running on port 5432? If not, wait a few seconds and retry.
+2019-08-27 17:31:56.799 IST [1832] WARNING:  could not create listen socket for "localhost"
+2019-08-27 17:31:56.799 IST [1832] FATAL:  could not create any TCP/IP sockets
+2019-08-27 17:31:56.799 IST [1832] LOG:  database system is shut down
+2019-08-27 17:33:28.696 IST [1923] LOG:  could not bind IPv4 address "127.0.0.1": Address already in use
+2019-08-27 17:33:28.696 IST [1923] HINT:  Is another postmaster already running on port 5432? If not, wait a few seconds and retry.
+2019-08-27 17:33:28.696 IST [1923] LOG:  could not bind IPv6 address "::1": Address already in use
+2019-08-27 17:33:28.696 IST [1923] HINT:  Is another postmaster already running on port 5432? If not, wait a few seconds and retry.
+2019-08-27 17:33:28.696 IST [1923] WARNING:  could not create listen socket for "localhost"
+2019-08-27 17:33:28.696 IST [1923] FATAL:  could not create any TCP/IP sockets
+2019-08-27 17:33:28.696 IST [1923] LOG:  database system is shut down
+2019-08-27 17:33:40.042 IST [1940] LOG:  could not bind IPv4 address "127.0.0.1": Address already in use
+2019-08-27 17:33:40.042 IST [1940] HINT:  Is another postmaster already running on port 5432? If not, wait a few seconds and retry.
+2019-08-27 17:33:40.042 IST [1940] LOG:  could not bind IPv6 address "::1": Address already in use
+2019-08-27 17:33:40.042 IST [1940] HINT:  Is another postmaster already running on port 5432? If not, wait a few seconds and retry.
+2019-08-27 17:33:40.042 IST [1940] WARNING:  could not create listen socket for "localhost"
+2019-08-27 17:33:40.042 IST [1940] FATAL:  could not create any TCP/IP sockets
+2019-08-27 17:33:40.042 IST [1940] LOG:  database system is shut down

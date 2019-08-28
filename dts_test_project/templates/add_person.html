@@ -1,0 +1,20 @@
+<html>
+    <body>
+        <form action="{% url 'add_tenant' %}" method="POST">
+                {% csrf_token %}
+            <table>
+                <tr>
+                    <th>First name</th>
+                    <td><input type="text" name="fname"></td>
+                </tr>
+                <tr>
+                    <th>Last name</th>
+                    <td><input type="text" name="lname"></td>
+                </tr>
+                <tr>
+                    <td><input type="submit" value="Submit"></td>
+                </tr>
+            </table>
+        </form>
+    </body>
+</html>
